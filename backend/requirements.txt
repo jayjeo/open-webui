@@ -19,7 +19,6 @@ sqlalchemy==2.0.38
 alembic==1.14.0
 peewee==3.18.1
 peewee-migrate==1.12.2
-psycopg2-binary==2.9.9
 pgvector==0.4.0
 PyMySQL==1.1.1
 bcrypt==4.3.0
@@ -68,7 +67,6 @@ fpdf2==2.8.2
 pymdown-extensions==10.14.2
 docx2txt==0.8
 python-pptx==1.0.0
-unstructured==0.16.17
 nltk==3.9.1
 Markdown==3.7
 pypandoc==1.15
@@ -78,13 +76,11 @@ pyxlsb==1.0.10
 xlrd==2.0.1
 validators==0.34.0
 psutil
-sentencepiece
 soundfile==0.13.1
 azure-ai-documentintelligence==1.0.0
 
 pillow==11.1.0
 opencv-python-headless==4.11.0.86
-rapidocr-onnxruntime==1.4.4
 rank-bm25==0.2.2
 
 onnxruntime==1.20.1
